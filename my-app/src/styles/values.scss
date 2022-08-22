@@ -1,0 +1,25 @@
+$gainsboro: #ccdbdc;
+$middleBlue: #80ced7;
+$chineseViolet: #8e6c88;
+$outerSpace: #263d42;
+
+$cultured: #eff1f3;
+$lightGray: #dbd3d8;
+
+@font-face {
+  font-family: GLight;
+  src: url(../assets/fonts/gothampro_light.ttf);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: GMed;
+  src: url(../assets/fonts/gothampro_medium.ttf);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: GBold;
+  src: url(../assets/fonts/gothampro_bold.ttf);
+  font-display: swap;
+}
